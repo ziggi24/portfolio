@@ -1,6 +1,10 @@
 # Sharpe Portfolio Site
 
+basic html/css/js single-page site with a dark, playful color scheme and visual style. 
 
+
+
+Wireframe
 
 ![](./assets/wire1.png)
 
